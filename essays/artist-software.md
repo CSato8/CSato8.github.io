@@ -18,7 +18,7 @@ Software engineering is more than just coding, but rather the whole process of d
 
 ## Why am I Here?
 
-While I had originally started my computer science journey for the sole purpose of pleasing my parents, I can't lie that the concepts of software engineering have definitely caught my attention. Although there are many different avenues that software engineering covers, I am mainly interested in the development of applications such as games or web apps. As an artist first, I am always looking for ways to incorporate my practice into everything I do. Naturally, as someone who has played copious amounts of video games when I was young, actually developing one was a pipe dream that I never thought would come true.
+While I had originally started my computer science journey for the sole purpose of pleasing my parents, I can't lie that the concepts of software engineering have definitely caught my attention. Although there are many different avenues that software engineering covers, I am mainly interested in the development of applications such as games or web apps. As an artist first, I am always looking for ways to incorporate my practice into everything I do. Naturally, as someone who has played copious amounts of video games when I was young, actually developing one was a pipe dream that I never thought would come true. However, getting to learn skills from a software engineering side like project management helps to push this dream further to reality.
 
 ## What's in the Future?
 
