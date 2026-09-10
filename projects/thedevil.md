@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/thedevil_thumbnail.png
 title: "The Devil in A Suit"
 date: 2026-04-27
 published: true
