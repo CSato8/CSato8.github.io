@@ -1,26 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Caden Sato",
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "email": "cadenjs@hawaii.edu",
+    "phone": "808-439-5422",
+    "website": "https://CSato8.github.io",
+    "summary": "I am studying for a B.F.A in Studio Art and a minor in Computer Science at the Univeristy of Hawaii at Manoa. I expect to graduate in Spring, 2027",
+    "location": { "address": "", "postalCode": "96789", "city": "Mililani", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "CSato8", "url": "http://github.com/CSato8" },
+      { "network": "linkedin", "username": "Caden Sato", "url": "http://linkedin.com/in/caden-sato" },
+      { "network": "instagram", "username": "ka.at0", "url": "http://instagram.com/ka.at0" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Digital Art" },
+    { "name": "Digital Printing" },
+    { "name": "Paper Sculpture" },
+    { "name": "Web Design" }
   ],
   "skills": [
     {
