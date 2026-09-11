@@ -22,3 +22,9 @@ This dilemma is the premise of "How to Ask Questions The Smart Way" by Eric Stev
 <a href="https://stackoverflow.com/questions/80002149/why-is-there-no-sorted-vector-container-in-the-c-standard-library-and-what-ar" target="_blank">Stack Overflow</a>
 
 In this example, the question being asked does not contain any code, but is rather asking for advice on the best practice for achieving a sorted vector in C++. The sub header is pretty specific, posing two questions that relate to each other and are easy to understand. The section describing the question proposed in the sub header are all grammatically formatted, and the breaks in between some lines allows for someone to easily read through the whole post. At the end of the post, not only does it reiterate the question, but narrows it down a bit further to whether not having a sorted_vector container in C++ is intentional, and what libraries are good for providing one.
+
+## The Bad Example
+<img class="img-fluid" src="../img/bad-example.png">
+<a href="https://stackoverflow.com/questions/45790285/blogger-not-showing-comments" target="_blank">Stack Overflow</a>
+
+The sub header in the example above is not exactly specific as comments not showing up on a blog could be any wide range of issues depending on if it is hosted on a platform or not. The sub header feels more like someone inputting a general issue into google in hopes of receiving some solution. On top of this, the post itself makes a hint that the problem may lay with the implementation of a Facebook button, yet no html is actually shown for the implementation so there is no way to know for people trying to answer if that is the case. The only link included in the post is to the blog itself. Perhaps the person posing the question was hoping for someone to contact them personally to help resolve the issue, but we will never know.
