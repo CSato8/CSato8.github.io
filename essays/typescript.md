@@ -13,6 +13,8 @@ labels:
 
 *It's Like Javascript, Kind Of*
 
+<img class="img-fluid" src="../img/ts-js.png">
+
 ## I Have no Idea What I am Doing Here
 
 What's my experience with Typescript, zero. What's my experience with Javascript, basically 0. So, jumping into the deep end with Typescript was definitely a nerve wracking experience. For starters, my skills for coding are pretty weak. The only language I really know is C and maybe C++. Java is that language everyone knows and yet I still sometimes struggle with it. My only touch with Javascript is with a website I had previously made, and even then it was barely any with most of the code being HTML and CSS. So, color me surprised when my first run with Typescript wasn't awful. I could understand what the task wanted me to do and be able to translate it to code with minimal difficulties. Granted, I haven not reached the full depth and complexity that Typescript has to offer, but I am ready to meet them head on.
