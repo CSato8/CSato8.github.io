@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/kato-thumbnail.png
 title: "katoprint"
 date: 2025-12-05
 published: true
