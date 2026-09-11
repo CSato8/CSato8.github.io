@@ -6,7 +6,9 @@ title: "katoprint"
 date: 2025-12-05
 published: true
 labels:
-  - Lisp
+  - Art
+  - HTML
+  - CSS
   - GitHub
 summary: "A portfolio created for my art works, artist statement, and CV. Portfolio is still being added to."
 ---
