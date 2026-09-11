@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/crazy-alley-thumbnail.jpg
+image: img/crazy-ally-thumbnail.jpg
 title: "Crazy Alley"
 date: 2025-02-26
 published: true
