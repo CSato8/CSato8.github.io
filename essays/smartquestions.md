@@ -19,6 +19,6 @@ This dilemma is the premise of "How to Ask Questions The Smart Way" by Eric Stev
 
 ## A Good Example
 <img class="img-fluid" src="../img/good-example.png">
-<a href="https://stackoverflow.com/questions/80002149/why-is-there-no-sorted-vector-container-in-the-c-standard-library-and-what-ar" target="_blank">Stack Overflow<br>
+<a href="https://stackoverflow.com/questions/80002149/why-is-there-no-sorted-vector-container-in-the-c-standard-library-and-what-ar" target="_blank">Stack Overflow</a>
 
 In this example, the question being asked does not contain any code, but is rather asking for advice on the best practice for achieving a sorted vector in C++. The sub header is pretty specific, posing two questions that relate to each other and are easy to understand. The section describing the question proposed in the sub header are all grammatically formatted, and the breaks in between some lines allows for someone to easily read through the whole post. At the end of the post, not only does it reiterate the question, but narrows it down a bit further to whether not having a sorted_vector container in C++ is intentional, and what libraries are good for providing one.
