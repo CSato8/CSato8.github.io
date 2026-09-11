@@ -7,7 +7,8 @@ date: 2025-02-26
 published: true
 labels:
   - Digital Print
-  - GitHub
+  - Art
+  - Group
 summary: "A group art project where 3 people collaborated to create a 100in. print."
 ---
 <img class="img-fluid" src="../img/crazy-alley-banner.jpeg">
