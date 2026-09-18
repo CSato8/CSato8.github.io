@@ -19,7 +19,7 @@ GEM
     forwardable-extended (2.6.0)
     google-protobuf (3.25.3-arm64-darwin)
     google-protobuf (3.25.3-x86_64-linux)
-    html-proofer (5.0)
+    html-proofer (4.4)
       addressable (~> 2.3)
       mercenary (~> 0.3)
       nokogiri (~> 1.13)
