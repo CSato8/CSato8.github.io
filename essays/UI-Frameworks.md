@@ -28,3 +28,11 @@ So, why would anyone use a UI framework like Bootstrap 5 if you can achieve simi
 <img width="400px" src="../img/kato-print-home.png">
 
 Above is a image from the landing page of the first ever website I made. The code base is made entirely of HTML and CSS with very minor amounts of Java script. Does the page look bad? I wouldn't say so for my first ever attempt, but it is very basic and suffers from an inconsistency with margins. A main issue I had during this time was getting the margins on the web page to stay consistently uniform when scaling for different view ports. Normally with just HTML, you could add a media tag to cover specific cases, but it is hard to cover every single case. With Bootstrap 5, implementing this is quite simple. Responsive breakpoints (sm is greater than or equal to 576px, md is greater than or equal to 768px, and lg is greater than or equal to 992px) allows a webpage to be modified for different view ports while still maintaining a similar formatt.
+
+<img width="400px" src="../img/murphys-1.png"> <img width="200px" src="../img/murphys-2.png">
+
+As an example, the two images above are from a recent exercise where I had to recreate a website using Bootstrap 5. The image on the left shows the web page when the view port is above 992px. However, when the view port shrinks the items in the nav bar get tucked away under a clickable menu button.
+
+## Why UI Frameworks
+
+Although it may seem like a lot of work at first, UI frameworks offer a quicker, cleaner, and more streamlined way of creating web pages. While, also allowing for creators to implement more complex formatting and interactivity for users.
